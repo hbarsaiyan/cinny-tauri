@@ -1,0 +1,11 @@
+{
+  "name": "Cinny",
+  "version": "1.1.1",
+  "description": "Yet another matrix client",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.0.0-beta.6"
+  }
+}
