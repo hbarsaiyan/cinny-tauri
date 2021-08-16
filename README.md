@@ -3,7 +3,7 @@
 # FAQ
 
 ### What is Cinny Tauri?
-It's an unofficial wrapper for [Cinny](https://cinny.in) that uses the lightweight library [Tauri](https://tauri.studio).
+It's an **unofficial** wrapper for [Cinny](https://cinny.in) that uses the lightweight library [Tauri](https://tauri.studio).
 
 # Contributing
 
@@ -37,6 +37,9 @@ The binary file will be in /src-tauri/target/release/
 ```ps
 npm run tauri build
 ```
+## Screenshots
+
+![cinny_sc](https://user-images.githubusercontent.com/37732050/129564795-c2fdbf51-7d50-45ae-9094-1c051bf043b0.png)
 
 ## Special Thanks to:
 
