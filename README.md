@@ -40,5 +40,6 @@ npm run tauri build
 
 ## Special Thanks to:
 
-@ajbura for creating [Cinny](https://github.com/ajbura/cinny)
-@RealDrPuc for creating [discord-tauri](https://github.com/DiscordTauri/discord-tauri) which has served as a template for this project.
+[@ajbura](https://github.com/ajbura) for creating [Cinny](https://github.com/ajbura/cinny)
+
+[@RealDrPuc](https://github.com/RealDrPuc) for creating [discord-tauri](https://github.com/DiscordTauri/discord-tauri) which has served as a template for this project.
