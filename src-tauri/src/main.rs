@@ -7,7 +7,6 @@
 use tauri::{CustomMenuItem, Manager, SystemTrayEvent, SystemTrayMenu, SystemTray};
 
 fn main() {
-	
   // We can't make a separate file for a Desktop Tray yet, so we make it here
   // Create an item of the context menu called `quit` with the string `Quit Cinny`
   let quit_item = CustomMenuItem::new("quit".to_string(), "Quit Cinny");
