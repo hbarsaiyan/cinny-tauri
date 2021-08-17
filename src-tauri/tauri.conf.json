@@ -52,16 +52,18 @@
       "active": false
     },
     "allowlist": {
-      "all": true
+      "all": false
     },
     "windows": [
       {
         "title": "Cinny",
         "width": 900,
-        "height": 600,
+        "height": 640,
+        "minWidth": 400,
+        "minHeight": 550,
         "resizable": true,
-		"url": "index.html",
-		"center": true,
+		    "url": "index.html",
+		    "center": true,
         "fullscreen": false
       }
     ],
