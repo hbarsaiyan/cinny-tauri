@@ -17,7 +17,7 @@ You can see the process depending on your operating system [here](https://tauri.
 
 ### Clone the repository
 ```ps
-git clone https://github.com/DiscordTauri/discord-tauri.git
+git clone https://github.com/hbarsaiyan/cinny-tauri.git
 ```
 ### Install the project dependencies
 ```ps
@@ -45,4 +45,4 @@ npm run tauri build
 
 [@ajbura](https://github.com/ajbura) for creating [Cinny](https://github.com/ajbura/cinny)
 
-[@RealDrPuc](https://github.com/RealDrPuc) for creating [discord-tauri](https://github.com/DiscordTauri/discord-tauri) which has served as a template for this project.
+[@RealDrPuc](https://github.com/RealDrPuc) for creating [discord-tauri](https://github.com/DiscordTauri/discord-tauri), which has served as a template for this project.
