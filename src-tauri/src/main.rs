@@ -33,17 +33,12 @@ fn main() {
         ..
       } => {
         let window = app.get_window("main").unwrap();
-        // If the window is closed
-        if !window.is_visible().unwrap() {
+          // Unminimize window
+          window.unminimize().unwrap();
+          // If the window is closed
+          window.set_focus().unwrap();
           // Re-open the window
           window.show().unwrap();
-          // Maximize it
-          window.maximize().unwrap();
-        }
-        // Even if the window isn't closed, it could be minimized in the taskbar; set it as focused
-        else {
-          window.set_focus().unwrap();
-        }
       }
       // If the event is a click to an item
       SystemTrayEvent::MenuItemClick {id,..} => {
