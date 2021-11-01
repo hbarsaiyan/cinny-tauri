@@ -5,6 +5,11 @@
 ### What is Cinny Tauri?
 It's an **unofficial** wrapper for [Cinny](https://cinny.in) that uses the lightweight library [Tauri](https://tauri.studio).
 
+# Installing
+
+- Grab a download from the [Release Artifacts](https://github.com/hbarsaiyan/cinny-tauri/releases)
+- [Compile from source](#tauri-dependencies)
+
 # Contributing
 
 Contributions are absolutely appreciated!
