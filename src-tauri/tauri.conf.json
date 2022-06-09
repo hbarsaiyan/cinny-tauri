@@ -31,13 +31,11 @@
       "shortDescription": "Yet another matrix client",
       "longDescription": "Cinny is built on top of Matrix — An open network for secure, decentralized communication.",
       "deb": {
-        "depends": [],
-        "useBootstrapper": false
+        "depends": []
       },
       "macOS": {
         "frameworks": [],
         "minimumSystemVersion": "",
-        "useBootstrapper": false,
         "exceptionDomain": "",
         "signingIdentity": null,
         "entitlements": null
